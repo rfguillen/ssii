@@ -1,0 +1,11 @@
+8
+entrenosIntensos, FC=0.9
+malDescanso, FC=0.7
+estresDiario, FC=0.4
+pocaComida, FC=0.3
+doloresMusculares, FC=0.6
+malRendimiento, FC=0.4
+suplementacionAdecuada, FC=0.2
+descansoPerfecto, FC=0
+Objetivo
+sobreEntrenamiento

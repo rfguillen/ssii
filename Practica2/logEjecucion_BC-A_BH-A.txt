@@ -1,0 +1,39 @@
+BC utilizada: BC-A.txt
+BH utilizada: BH-A.txt
+Objetivo: sobreEntrenamiento
+
+Hecho en BH: entrenosIntensos, FC=0.90000
+Hecho en BH: malDescanso, FC=0.70000
+R1 (regla activada)
+  Caso 1: entrenosIntensos, FC=0.90000
+  Caso 1: malDescanso, FC=0.70000
+  Caso 1 (resultado): FC_antecedentes=0.70000
+  Caso 3: fatigaAcumulada, FC=0.49000
+Hecho en BH: estresDiario, FC=0.40000
+Hecho en BH: pocaComida, FC=0.30000
+R2 (regla activada)
+  Caso 1: estresDiario, FC=0.40000
+  Caso 1: pocaComida, FC=0.30000
+  Caso 1 (resultado): FC_antecedentes=0.40000
+  Caso 3: fatigaAcumulada, FC=0.24000
+Hecho en BH: descansoPerfecto, FC=0.00000
+R6 (regla activada)
+  Caso 3: fatigaAcumulada, FC=-0.00000
+Caso 2: fatigaAcumulada, FC=0.61240
+Caso 2: fatigaAcumulada, FC=0.61240
+Hecho en BH: doloresMusculares, FC=0.60000
+R3 (regla activada)
+  Caso 1: fatigaAcumulada, FC=0.61240
+  Caso 1: doloresMusculares, FC=0.60000
+  Caso 1 (resultado): FC_antecedentes=0.60000
+  Caso 3: sobreEntrenamiento, FC=0.48000
+Hecho en BH: malRendimiento, FC=0.40000
+R4 (regla activada)
+  Caso 3: sobreEntrenamiento, FC=0.20000
+Hecho en BH: suplementacionAdecuada, FC=0.20000
+R5 (regla activada)
+  Caso 3: sobreEntrenamiento, FC=-0.08000
+Caso 2: sobreEntrenamiento, FC=0.58400
+Caso 2: sobreEntrenamiento, FC=0.54783
+
+Objetivo sobreEntrenamiento, FC=0.54783

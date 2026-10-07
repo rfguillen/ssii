@@ -1,0 +1,21 @@
+BC utilizada: BC-2.txt
+BH utilizada: BH-2.txt
+Objetivo: ganaRM
+
+Hecho en BH: arbMod, FC=1.00000
+R2 (regla activada)
+  Caso 3: ganaRM, FC=0.75000
+Hecho en BH: publicoMayEST, FC=0.65000
+R3 (regla activada)
+  Caso 3: ganaRM, FC=-0.26000
+Hecho en BH: les2pivRM, FC=1.00000
+Hecho en BH: visitanteRM, FC=1.00000
+R5 (regla activada)
+  Caso 1: les2pivRM, FC=1.00000
+  Caso 1: visitanteRM, FC=1.00000
+  Caso 1 (resultado): FC_antecedentes=1.00000
+  Caso 3: ganaRM, FC=-0.10000
+Caso 2: ganaRM, FC=0.66216
+Caso 2: ganaRM, FC=0.62462
+
+Objetivo ganaRM, FC=0.62462

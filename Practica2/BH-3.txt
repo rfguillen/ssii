@@ -1,0 +1,8 @@
+5
+antMas3anyos, FC=1
+cond2a3horas, FC=1
+viajaSolo, FC=1
+joven, FC=0.4
+bebido, FC=0
+Objetivo
+causanteAcc

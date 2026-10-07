@@ -1,0 +1,22 @@
+BC utilizada: BC-3.txt
+BH utilizada: BH-3.txt
+Objetivo: causanteAcc
+
+Hecho en BH: antMas3anyos, FC=1.00000
+R2 (regla activada)
+  Caso 3: experimentado, FC=0.90000
+Hecho en BH: cond2a3horas, FC=1.00000
+R3 (regla activada)
+  Caso 3: cansado, FC=0.50000
+R6 (regla activada)
+  Caso 3: causanteAcc, FC=0.25000
+Hecho en BH: joven, FC=0.40000
+Hecho en BH: bebido, FC=0.00000
+R7 (regla activada)
+  Caso 1: joven, FC=0.40000
+  Caso 1: bebido, FC=0.00000
+  Caso 1 (resultado): FC_antecedentes=0.40000
+  Caso 3: causanteAcc, FC=0.28000
+Caso 2: causanteAcc, FC=0.46000
+
+Objetivo causanteAcc, FC=0.46000

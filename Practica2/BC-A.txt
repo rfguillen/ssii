@@ -1,0 +1,7 @@
+6
+R1: Si entrenosIntensos y malDescanso Entonces fatigaAcumulada, FC=0.7
+R2: Si estresDiario o pocaComida Entonces fatigaAcumulada, FC=0.6
+R3: Si fatigaAcumulada y doloresMusculares Entonces sobreEntrenamiento, FC=0.8
+R4: Si malRendimiento Entonces sobreEntrenamiento, FC=0.5
+R5: Si suplementacionAdecuada Entonces sobreEntrenamiento, FC=-0.4
+R6: Si descansoPerfecto Entonces fatigaAcumulada, FC=-0.5

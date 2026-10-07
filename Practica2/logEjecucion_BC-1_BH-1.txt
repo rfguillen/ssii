@@ -1,0 +1,27 @@
+BC utilizada: BC-1.txt
+BH utilizada: BH-1.txt
+Objetivo: h1
+
+Hecho en BH: h2, FC=0.30000
+Hecho en BH: h5, FC=0.60000
+Hecho en BH: h6, FC=0.90000
+R3 (regla activada)
+  Caso 1: h5, FC=0.60000
+  Caso 1: h6, FC=0.90000
+  Caso 1 (resultado): FC_antecedentes=0.60000
+  Caso 3: h3, FC=0.42000
+Hecho en BH: h7, FC=0.50000
+R4 (regla activada)
+  Caso 3: h3, FC=-0.25000
+Caso 2: h3, FC=0.22667
+R1 (regla activada)
+  Caso 1: h2, FC=0.30000
+  Caso 1: h3, FC=0.22667
+  Caso 1 (resultado): FC_antecedentes=0.30000
+  Caso 3: h1, FC=0.15000
+Hecho en BH: h4, FC=0.60000
+R2 (regla activada)
+  Caso 3: h1, FC=0.60000
+Caso 2: h1, FC=0.66000
+
+Objetivo h1, FC=0.66000
